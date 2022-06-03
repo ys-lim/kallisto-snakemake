@@ -1,0 +1,6 @@
+samples: /mnt/cbis/home/yongshan/kallisto_snakemake/tdp43_nestin_thlm_e14/config/samples.tsv
+INDEX: /mnt/gtklab01/linglab/mmusculus_annotation_files/kallisto_v0.46.1_index_mmusculus_gencode.vM29
+OUT_FILE: /mnt/gtklab01/linglab/tdp43/kallisto/quant/tdp43_nestin_thlm_e14/{sample_name}
+STRAND: "rf-stranded"
+BOOTSTRAPS: 100
+N_THREADS: 4
